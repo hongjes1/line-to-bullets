@@ -3,14 +3,14 @@ A scripted way to deal with the lack of bullet copy/paste outside of Microsoft W
 
 # Requirements and Dependencies
 * [Python 3.x](https://www.python.org/) (tested on 3.4.3 and 3.7.0)
-* [Clipboard](https://pypi.org/project/clipboard/)
+* [Clipboard](https://pypi.org/project/clipboard/) `pip install clipboard` (Cross-platform)
 
 # Goals of code
 * Make it easier to bullet a list according to plain text
 * **Automatically** copy bulleted list to clipboard for easy use
 
 # Procedure
-The procedure 
+The procedure varies depending on system (or even program). Check the headings below to see which procedure to follow.
 ## IDLE (and possibly Linux-like systems after program start)
 1. Start up the program (IDLE: F5; Linux-like: via either IDLE or command line similar to Windows below).
 2. Provide the bullet character(s) you want to use as prompted.
