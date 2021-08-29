@@ -19,7 +19,7 @@ The procedure varies depending on system (or even program). Check the headings b
   * NOTE: for IDLE, if pasted content ends with a new line, the pasted new line may have to be deleted before 4 is executed.
 
 ## Windows Command line
-1. Type in `python [directory_location]/line-to-bullets`.
+1. Type in `python [directory_location]/line-to-bullets.py`.
 2. Provide the bullet character(s) you want to use as prompted.
 3. Indicate whether a space should be added between the bullet character and text (default `True`; must type `no` (case-insensitive) to remove).
 4. Either write or copy the lines. After the final line, start a new line, press `CTRL`+`Z`, and then press `ENTER`.
